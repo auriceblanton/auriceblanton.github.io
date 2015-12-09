@@ -89,7 +89,7 @@ article{
 }
 
 footer{
-    background:#eee;
+    background:#00FF03;
 }
 
 .jumbotron{
@@ -101,6 +101,3 @@ footer{
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
 }
-html { 
-    background-color: blue;
-    
