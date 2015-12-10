@@ -23,6 +23,7 @@ HEADER
     margin-bottom:10px;
     height:500px;
     padding-top:50px;
+    background-color: #00C1D1;
 }
 
 .portrait_name{
@@ -38,13 +39,13 @@ MAIN CONTENT
 .thumbnail_space{
     max-width:90%;
     margin:0 auto;
-    background-color: #00C1D1;
+   
 }
 
 .thumbnail_image{
   max-height:200px;
   max-width:242px;
-  background-color: #00C1D1;
+  
 }
 
 article{
