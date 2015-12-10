@@ -38,11 +38,13 @@ MAIN CONTENT
 .thumbnail_space{
     max-width:90%;
     margin:0 auto;
+    background-color: #00C1D1;
 }
 
 .thumbnail_image{
   max-height:200px;
   max-width:242px;
+  background-color: #00C1D1;
 }
 
 article{
@@ -103,5 +105,5 @@ footer{
      background-color: #00C1D1;
 }
 h3 {
-    background-color: #00C1D1;
+   
 }
