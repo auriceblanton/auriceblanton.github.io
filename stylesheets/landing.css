@@ -111,6 +111,8 @@ h3:hover {
 .thumbnail {
     background-color: #00C1D1;
 }
-.body {
-    background-color: #424143;
+.thumbnail_image:hover {
+    border-style: dashed ;
+    border-color: #00FF00;
+    
 }
