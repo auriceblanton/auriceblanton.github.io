@@ -96,7 +96,7 @@ footer{
 
 .jumbotron{
  
-  background: url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6VhqkSDqs5A8VxP1MpUouQ1lzBqxB-ZAZMkj4ChQGVcONb2Cx') no-repeat center;
+  background: url('http://st.depositphotos.com/1275255/2371/i/170/depositphotos_23711897-Nice-blue-abstract-sky-background.jpg') no-repeat center;
   background-size: cover;
 }
 
@@ -110,7 +110,4 @@ h3:hover {
 }
 .thumbnail {
     background-color: #00C1D1;
-}
-div { 
-    background-color: silver;
 }
