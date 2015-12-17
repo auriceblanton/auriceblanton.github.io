@@ -87,11 +87,11 @@ Color 1:
 ***********************************/
 
 article{
-    background:#eee;
+    background:#4DBA51;
 }
 
 footer{
-    background:#eee;
+    background:#4DBA51;
 }
 
 .jumbotron{
@@ -102,15 +102,15 @@ footer{
 
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
-     background-color: #00C1D1;
+     background-color: #4DBA51;
 }
 h3:hover {
   color: silver; 
   text-decoration: none;
 }
 .thumbnail {
-    background-color: #00C1D1;
+    background-color: #4DBA51;
 }
 body {
-    background-color: silver;
+    background-color: #49C0E8;
 }

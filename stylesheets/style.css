@@ -1,0 +1,51 @@
+article{
+    width:90%;
+    margin:0 auto;
+    padding:10px;
+    border-radius:10px;
+    margin-bottom:10px;
+}
+
+/**********************************
+FOOTER - Layout and Sizing
+***********************************/
+footer{
+    height:100px;
+    text-align:center;
+    padding:20px;
+}
+
+/**********************************
+PAGE: _______
+***********************************/
+
+
+
+/**********************************
+FONTS
+***********************************/
+.portrait_name{
+    font-family: 'Audiowide', cursive;
+}
+
+/**********************************
+COLORS and BACKGROUNDS
+Color 1:
+Color 1:
+Color 1:
+Color 1:
+Color 1:
+***********************************/
+.portrait_name{
+    background: rgba(230, 230, 230, 0.7);
+     background-color: #4DBA51;
+}
+.thumbnail {
+    background-color: #4DBA51;
+}
+body {
+    background-color: #49C0E8;
+}
+footer{
+    background:#4DBA51;
+}
