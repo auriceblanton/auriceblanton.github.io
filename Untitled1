@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head> 
+  <meta charset="utf-8">
+  <title>Art 1</title>
+  <link type="text/css" rel="stylesheet" href="stylesheets/normalize.css"> 
+    <!--The link above called "normalize" goes to a CSS page that reset all of the browser defaults. Needs to be on Every Page-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <!--This is the link to the Bootstrap file, via CDN. This means you don't have to download it, it accesses a CSS page from the internet-->
+  <link type="text/css" rel="stylesheet" href="stylesheets/style.css">
+    <!--This file will be the one that you customize yourself, with your own code.-->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--This makes the webpage check the size of the device it's on. This lets your page be mobile responsive-->
+    <div class="jumbotron">
+      <div class="portrait_name">
+        <img class="portrait" src="">
+        <h1>Art 1</h1>
+        <p>Art Class 1/2 <br>
+          Chicago Tech Academy</p>
+      </div>
+    <article>
+    </article>
+  <content>
+</head>
+
+<body>
+  
+  <content>
+    <div class="thumbnail_space">
+<div class="row">
+    <div class="col-sm-6 col-md-6">
+        <div class="thumbnail">
+         <img  alt="300x200" src="" >
+            <div class="caption">
+                 <h3>Sound Wave</h3>
+
+                <p> Sound wave is a project that we are working on. The purpose of this project is to send out a strong message with a 3D peice of art. T
+                he quote I am sending is "America Rapes The People" This quote was created from random words. 
+                I used this quote because I felt when people hear it they will want to know more about it.
+                The quote is referring to the amount of money the goverment and state takes from everyone.
+                We are not going to use paint but a stain. Stain will allow the texture of the wood to show on each one. </p>
+
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-sm-6 col-md-6">
+        <div class="thumbnail">
+          <img  alt="300x200" src="">
+            <div class="caption">
+                 <h3>Sound Wave 2nd Idea</h3>
+
+                <p> The stain idea didnt work. We decided to go from stain to paint. We feel that paint would look better and dry stronger. 
+                Our second idea is to take different shades of green to represent money. The greens will help the audience relate the quote with money. 
+                We chose to use 5 greens that we feel fit with each other. </p>
+
+            </div>
+        </div>
+    </div>
+    <div class="clearfix visible-xs-block"></div>
+    <div class="col-sm-6 col-md-6">
+        <div class="thumbnail">
+          <img  alt="300x200" src="" ></a>
+            <div class="caption">
+                 <h3>Mixing The Colors</h3>
+
+                <p> We Have all the colors mixed and we are ready to paint. </p>
+
+                          </div>
+        </div>
+    </div>
+    <div class="clearfix visible-xs-block"></div>
+    <div class="col-sm-6 col-md-6">
+        <div class="thumbnail">
+          <img  alt="300x200" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAC0PNmIrcSuiszWhC7gstbLtA2xGVBwUwTILPMHA9DNVjXJ8Bag" ></a>
+            <div class="caption">
+                 <h3>Final Product</h3>
+
+                <p>Coming Soon.... </p>
+
+                          </div>
+        </div>
+    </div>
+</body>
+<footer>
+     Created by Aurice Blanton, ©2015
+</footer>
+<!--This stuff is the javascript information. The top is for jQuery, the second is Bootstrap, and the 3rd is one one you can edit-->
+	<script src="http://code.jquery.com/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script src="js/scripts.js" type="text/javascript" charset="utf-8"></script>
+
+</content>
